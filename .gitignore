@@ -2,3 +2,5 @@
 /2024-04-01_KFHP-NC_index.json
 /2024-04-01_KFHP_NC-COMMERCIAL_in-network-rates.zip
 /kpncal
+*.db
+*.db-journal
